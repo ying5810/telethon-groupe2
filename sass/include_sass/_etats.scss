@@ -1,0 +1,9 @@
+.menu-principal a:hover{
+border-bottom: 5px solid $color-link;
+}
+
+/*changement de style des boutons lorsque la souris passe dessus*/
+.btn:hover {
+    background-color: $color-bg;
+    border:3px solid $color-link; 
+}

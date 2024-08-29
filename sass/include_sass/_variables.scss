@@ -1,0 +1,36 @@
+/*=============================================================================
+Couleurs
+=============================================================================*/
+
+$color-nav: #0EB6C1;
+$color-link: #fac90b;
+$color-failed: #a40353;
+$color-valid: #8bd609;
+$color-error: #c91919;
+$color-bg: #ecf6f6;
+$color-font: #222e2f;
+$color-footer: #02565e;
+$color-article: #f6ffff;
+$color-darkestgrey: #465e60;
+$color-darkgrey: #506c6d;
+$color-grey: #628284;
+$color-lightgrey: #a3b9ba;
+
+/*=============================================================================
+Fonts
+=============================================================================*/
+
+@font-face {
+    font-family: "titre";
+    src: url(/public/css/fonts/Montserrat-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "lien";
+    src: url(/public/css/fonts/Manrope-Regular.ttf);
+}
+
+@font-face {
+    font-family: "texte";
+    src: url(/public/css/fonts/NunitoSans_7pt-Regular.ttf);
+}

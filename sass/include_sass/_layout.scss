@@ -1,0 +1,100 @@
+/*=============================================================================
+header
+=============================================================================*/
+
+.head {
+    display: flex;
+    justify-content: space-between;
+
+    h1 {
+        display: flex;
+        margin: 2rem;
+
+        img {
+            align-items: center;
+            justify-items: center;
+        }
+    }
+
+    .compteur {
+        display: flex;
+        justify-content: center;
+        box-shadow: 0 0 0 .5px $color-lightgrey;
+        border-radius: 12px;
+        gap: 1rem;
+        background-color: $color-footer;
+        margin: 2rem;
+        padding: 1rem;
+
+        .chiffres {
+            display: flex;
+            align-items: center;
+            font-size: 2em;
+            flex-grow: 1;
+            gap: .5rem;
+
+            .chiffre_mille,
+            .chiffre_cent {
+                background-color: $color-bg;
+                border-radius: 3px;
+                padding: .5rem;
+            }
+        }
+
+        .euro {
+            align-content: center;
+            width: 57px;
+
+            img {
+                width: 100%;
+                align-items: center;
+
+            }
+        }
+    }
+}
+
+.menu-principal {
+    background-color: $color-nav;
+
+    li {
+        padding: 1rem;
+
+        a {
+            font-family: "titre", serif;
+            font-weight: 600;
+            font-size: 1.5em;
+            color: $color-font;
+            text-decoration: none;
+        }
+    }
+
+}
+
+
+/*=============================================================================
+Footer
+=============================================================================*/
+
+.foot {
+    background-color: $color-footer;
+    color: $color-bg;
+
+    p {
+        text-align: center;
+        margin-right: 2rem;
+    }
+
+    a,
+    span {
+        font-family: "lien", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: $color-bg;
+        font-size: 1.128em;
+        text-decoration: underline;
+    }
+
+    .lien_externes {
+        display: flex;
+        justify-content: center;
+    }
+}
