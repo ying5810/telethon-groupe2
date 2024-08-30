@@ -15,7 +15,7 @@
           <a class="nav-link" href="#">Nous contacter</a>
         </li>
       </ul>
-      <div class="">
+      <div class="afm">
         <p>
         Visitez aussi notre site internet: <span><a href="">www.afm-telethon.fr/fr</a></span>
         </p>

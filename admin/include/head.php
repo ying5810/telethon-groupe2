@@ -15,7 +15,7 @@
 
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid w-100">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand b-flex menu-pricipal" href="#">
                     <img src="public/images/logo.png" alt="Téléthon">
                 </a>
 
