@@ -26,7 +26,7 @@
         <nav>
             <ul class="menu menu-principal">
                 <li class="item"><a href="index.php">Accueil</a></li>
-                <li class="item"><a href="#">Blog</a></li>
+                <li class="item"><a href="blog.php">Blog</a></li>
                 <li class="item"><a href="#">Evénements</a></li>
                 <li class="item"><a href="#">Partenaires</a></li>
                 <li class="item"><a href="#">A propos</a></li>
