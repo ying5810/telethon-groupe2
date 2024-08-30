@@ -1,7 +1,5 @@
 <?php require "include/head.php"; ?>
 
-
-
 <main>
 
  <div class="banner">
@@ -10,5 +8,4 @@
 
  </main>
     
-
 <?php require "include/tail.php"; ?>
