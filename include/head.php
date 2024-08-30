@@ -11,7 +11,7 @@
 <body>
     <header id="header">
         <div class="head">
-            <h1><img src="./public/css/images/logo/logo.webp" alt="logo de l'afm-telethon"></h1>
+            <h1><a href="index.php"><img src="./public/css/images/logo/logo.webp" alt="logo de l'afm-telethon"></a></h1>
             <div class="compteur">
                 <div class="chiffres">
                     <div class="mille chiffre_mille">0</div>
@@ -27,9 +27,9 @@
             <ul class="menu menu-principal">
                 <li class="item"><a href="index.php">Accueil</a></li>
                 <li class="item"><a href="blog.php">Blog</a></li>
-                <li class="item"><a href="#">Evénements</a></li>
-                <li class="item"><a href="#">Partenaires</a></li>
-                <li class="item"><a href="#">A propos</a></li>
+                <li class="item"><a href="events.php">Evénements</a></li>
+                <li class="item"><a href="partners.php">Partenaires</a></li>
+                <li class="item"><a href="apropos.php">A propos</a></li>
             </ul>
         </nav>
     </header>

@@ -3,7 +3,7 @@
     <link href= public/css/style.css rel= stylesheet>
     <img src="" alt="">
     <div class="">
-        <p>Vous voulez faire un don ? <a href="">Cliquez ici</a> ou <a href="">faites-le en ligne</a></p>
+        <p>Vous voulez faire un don ? <a href="events.php">Cliquez ici</a> ou <a href="https://www.afm-telethon.fr/fr">faites-le en ligne</a></p>
     </div>
 
     <h2>Plusieurs événements et boutiques vous attendent</h2>
