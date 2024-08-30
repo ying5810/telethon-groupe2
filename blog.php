@@ -3,8 +3,7 @@
 <main id="main_blog" class="wrapper_blog">
 
  <div class="banner">
-  <h1><img src="./public/css/images/bannière.png" alt="bannière téléthon">
-  </h1>
+  <h1><img src="./public/css/images/bannière.png" alt="bannière téléthon"></h1>
    <h2><div class="title_actualités">Nos actualités</div></h2>   
  </div>
 

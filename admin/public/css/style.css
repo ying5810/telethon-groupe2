@@ -1,0 +1,18 @@
+    @font-face {
+        font-family: "titre";
+        src: url(/public/css/fonts/Montserrat-SemiBold.ttf);
+    }
+    
+    @font-face {
+        font-family: "lien";
+        src: url(/public/css/fonts/Manrope-Regular.ttf);
+    }
+    
+    @font-face {
+        font-family: "texte";
+        src: url(/public/css/fonts/NunitoSans_7pt-Regular.ttf);
+    }
+    
+    .nav-link {
+        color: red;
+    }
