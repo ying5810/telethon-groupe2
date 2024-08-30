@@ -14,9 +14,9 @@
     <header id="header">
 
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container-fluid">
+            <div class="container-fluid w-100">
                 <a class="navbar-brand" href="#">
-                    <img src="public/image/logo.png" alt="Téléthon">
+                    <img src="public/images/logo.png" alt="Téléthon">
                 </a>
 
                 <div class="collapse navbar-collapse">
@@ -47,7 +47,7 @@
                     <ul class="navbar-nav me-4">
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                <img src="public/image/profil.jpg" alt="Photo de profil">
+                                <img src="public/images/profil.jpg" alt="Photo de profil">
                                 Mon profil     
                             </a>
                             <ul class="dropdown-menu">
